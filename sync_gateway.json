@@ -1,0 +1,10 @@
+{
+  "log": ["*"],
+  "databases": {
+    "test": {
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    }
+  }
+}
