@@ -4,7 +4,7 @@ import {
   find,
 } from 'lodash/collection'
 
-const dbName = 'proximator'
+const dbName = 'test'
 
 class CBLite {
   constructor() {
